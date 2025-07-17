@@ -1,4 +1,4 @@
-## Hi there 👋
+## About me 
 
 <!--
 **EddyLeyrod/EddyLeyrod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -9,8 +9,7 @@ Here are some ideas to get you started:
 <h1 align="center"><b>Hola, soy Eduardo Leyva</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 :computer: **Software Developer Full Stack**    
-:eyeglasses: **Geek**           
-:movie: **Fan de las peliculas de accion**  
+:eyeglasses: **Geek**             
 :family: **¡El papá más feliz del mundo!**
 
 - 🔭 I’m currently working on   
@@ -25,4 +24,4 @@ code and new projects
 - 📫 How to reach me:
         eduardoleyva.tech@gmail.com
 - 😄 Pronouns: Lalo
-- ⚡ Fun fact:  a game of fortnite?
+- ⚡ Fun fact:  a game of fortnite? || Fan de las peliculas de accion
