@@ -1,4 +1,4 @@
-## About me 
+
 
 <!--
 **EddyLeyrod/EddyLeyrod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,9 +19,15 @@ AI Automation
 - 👯 I’m looking to collaborate on  
 technology companies
 <!-- - 🤔 I’m looking for help with ... -->
-- 💬 Ask me about   
-code and new projects
+
 - 📫 How to reach me:
         eduardoleyva.tech@gmail.com
 - 😄 Pronouns: Lalo
 - ⚡ Fun fact:  a game of fortnite? || Fan de las peliculas de accion
+
+- 💬 Ask me about   
+Soy Ingeniero en Sistemas computacionales con en experiencia en desarrollo de web.
+
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/goldenlucked) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-leyva-7a9614368/) 
