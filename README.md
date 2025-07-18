@@ -47,8 +47,8 @@ technology companies
 😄 Pronouns: Lalo   
 ⚡ Fun fact:  a game of fortnite? || I love movies
 
-💬 Sobre mi   
-Soy Ingeniero en Sistemas computacionales con  experiencia en desarrollo de web.
+💬 About me   
+     I'm a Computer Systems Engineer with experience in web development.
 
 
 
