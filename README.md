@@ -31,3 +31,10 @@ Soy Ingeniero en Sistemas computacionales con en experiencia en desarrollo de we
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/goldenlucked) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-leyva-7a9614368/) 
+
+[<img src="./assets/social/instagram.png"/>][instagram]
+[<img src="./assets/social/linkedin.png"/>][linkedin]
+
+
+[linkedin]: https://www.linkedin.com/in/eduardo-leyva-7a9614368/
+[instagram]: https://www.instagram.com/goldenlucked/
